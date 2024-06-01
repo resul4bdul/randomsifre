@@ -1,7 +1,7 @@
 # randomsifre
 İstədiyiniz uzunluqda şifrə yaratma proqramı
 
-##İstifadə
+## İstifadə
 1-Proqramı run edin
 2-Şifrə uzunluğunu daxil edin
 Hazırdır
@@ -9,7 +9,7 @@ Hazırdır
 # randomcode
 Program for generating passwords of any length
 
-##Usage
+## Usage
 1-Run the program
 2-Enter the password length
 It is ready
