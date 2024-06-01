@@ -2,14 +2,14 @@
 İstədiyiniz uzunluqda şifrə yaratma proqramı
 
 ## İstifadə
-1-Proqramı run edin
-2-Şifrə uzunluğunu daxil edin
+-Proqramı run edin
+-Şifrə uzunluğunu daxil edin
 Hazırdır
 
 # randomcode
 Program for generating passwords of any length
 
 ## Usage
-1-Run the program
-2-Enter the password length
+-Run the program
+-Enter the password length
 It is ready
